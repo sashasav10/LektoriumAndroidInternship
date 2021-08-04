@@ -1,0 +1,6 @@
+com/example/task2/DisplayMessageActivity.java
+ com.example.task2.DisplayMessageActivity
+com/example/task2/MainActivity.java
+ com.example.task2.MainActivity
+com/example/task2/BuildConfig.java
+ com.example.task2.BuildConfig

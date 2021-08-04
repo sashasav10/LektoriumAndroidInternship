@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My application</string>
+    <string name="studentName">Савельєв Олександр Сергійович</string>
+    <string name="image1Description">green square</string>
+    <string name="underImageText">Цей надпис розміщено одразу під зеленим квадратом</string>
+</resources>
